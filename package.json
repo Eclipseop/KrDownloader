@@ -1,0 +1,14 @@
+{
+  "name": "KrDownloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^3.2.3",
+    "axios": "^0.21.1",
+    "form-data": "^4.0.0"
+  }
+}
